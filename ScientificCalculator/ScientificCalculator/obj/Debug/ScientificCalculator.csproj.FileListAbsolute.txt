@@ -1,0 +1,12 @@
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.pdb
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csprojResolveAssemblyReference.cache
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Form1.resources
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.Properties.Resources.resources
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.csproj.GenerateResource.Cache
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+c:\users\nhegde\documents\visual studio 2013\Projects\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
+C:\Users\nhegde\Documents\personal GIT\hello-world\ScientificCalculator\ScientificCalculator\bin\Debug\ScientificCalculator.exe.config
+C:\Users\nhegde\Documents\personal GIT\hello-world\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.exe
+C:\Users\nhegde\Documents\personal GIT\hello-world\ScientificCalculator\ScientificCalculator\obj\Debug\ScientificCalculator.pdb
